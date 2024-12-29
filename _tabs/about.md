@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hello! My name is Lee Beckermeyer, I'm a focused administrator/developer with a Bachelor's degree in Computer Science and four years of diverse experience in government and private sectors. My expertise spans IT support, programming, and design. On my own personal time I enjoy hobbies like swimming, reading, and building models. Thanks for checking out my site!
