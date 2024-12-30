@@ -14,12 +14,12 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Code Learning by Lee # the main title
+title: Into The Unkown # the main title
 
-tagline: A blog that posts about random technical and non-technical topics on an unconsistent basis. # it will display as the subtitle
+tagline: exploring technical and non-technical topics, shared at a unpredictable pace. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A blog that posts about random technical and non-technical topics on an unconsistent basis.
+  exploring technical and non-technical topics, shared at a unpredictable pace.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -98,7 +98,7 @@ avatar: assets/blog-pic.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: assets/blog-pic.jpg # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
