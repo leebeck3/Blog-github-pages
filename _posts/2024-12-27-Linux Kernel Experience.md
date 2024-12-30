@@ -9,7 +9,7 @@ comments: false
 toc: false
 ---
 
-Hello! My name is Lee Beckermeyer, I'm an IT professional with 5 years of part/full-time experience. I recently had the opportunity to take part in the Linux Kernel Mentorship program and this is a blog post summarizing my experience with it.
+Hello! My name is Lee Beckermeyer, I'm an IT professional with 5 years of part/full-time experience. I recently had the opportunity to take part in the Linux Kernel Mentorship program. This is a blog post I wrote summarizing my experience within the program.
 
 # Why I picked the Linux Kernel
 
