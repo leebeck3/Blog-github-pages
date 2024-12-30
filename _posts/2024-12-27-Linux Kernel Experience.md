@@ -9,19 +9,19 @@ comments: false
 toc: false
 ---
 
-Hello, this is a blog about my experience with the 2024 Linux Kernel Mentorship.
+Hello! My name is Lee Beckermeyer, I'm an IT professional with 5 years of part/full-time experience. I recently had the opportunity to take part in the Linux Kernel Mentorship program and this is a blog post summarizing my experience with it.
 
 # Why I picked the Linux Kernel
 
-I had a couple of reasons behind why I wanted to get involved with the linux kernel.
+I had a couple of reasons behind why I wanted to get involved with the linux kernel, summarized below.
 
 1. The first reason was that I wanted to learn and grow myself.
 2. The second reason was to expand my technical skillset.
-3. The final reason was to improve my communication of hard-to-grasp technical concepts and boil them down into an easy-to-use format, improving my communication skills in the process.
+3. The final reason was to improve my communication of hard-to-grasp technical concepts and boil them down into an easy-to-use format.
 
 # My Experience
 
-Coming into this internship I had no experience with C, I had a minor amount of experience with C++ and had also looked into GO and Rust but have no expertise in any of those languages. I opted to dig into C with Linux as it gave me a semi-structured environment to expand my low-level programming skills. Focusing on one project enabled me to get out of the programming language debate. Focusing on what matters as a developer, building a great product.
+Coming into this internship I had no experience with C, I had a minor amount of experience with C++ and had also looked into GO and Rust but have no expertise in any of those languages. I opted to dig into C with Linux as it gave me a semi-structured environment to expand my low-level programming skills. Focusing on one project enabled me to get out of the programming language debate. Instead focusing on what matters as a developer, building a great product.
 
 I started by building out one of my personal servers as a Debian server for all of my development. Once that was done I then dug into HID devices, including learning about keymaps and how drivers are structured. 
 
